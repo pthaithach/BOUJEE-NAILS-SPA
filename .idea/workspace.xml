@@ -56,15 +56,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="498" />
-          <entry key="html" value="416" />
+          <entry key="css" value="541" />
+          <entry key="html" value="481" />
           <entry key="js" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="498" />
-          <entry key="HTML" value="416" />
+          <entry key="CSS" value="541" />
+          <entry key="HTML" value="481" />
           <entry key="JavaScript" value="65" />
         </counts>
       </usages-collector>
@@ -96,11 +96,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="913" lean-forward="true" selection-start-line="913" selection-end-line="913" />
+            <state relative-caret-position="519">
+              <caret line="816" column="32" lean-forward="true" selection-start-line="816" selection-start-column="32" selection-end-line="816" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#52248#57983#0" />
+                <element signature="n#style#0;n#span#0;n#h4#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1651825009728" expanded="true" signature="46198:46344" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/templatemo-hexashop.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15164">
-              <caret line="1522" column="9" selection-start-line="1522" selection-start-column="9" selection-end-line="1522" selection-end-column="9" />
+            <state relative-caret-position="629">
+              <caret line="2460" column="17" selection-start-line="2460" selection-start-column="17" selection-end-line="2460" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -145,12 +147,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Open</find>
-      <find>banner</find>
-      <find>#c5a62b</find>
-      <find>768</find>
-      <find>Booking Now</find>
-      <find>Special</find>
       <find>1400</find>
       <find>border-bottom: 3px dotted #eee;</find>
       <find>color-gold</find>
@@ -173,13 +169,16 @@
       <find>a-t-nails-spa-service-0</find>
       <find>https://www.lldtek.com/salon/appt/MzYyNDV8YW50bmFpbHMxNDF8RkxfMDcyOTF8ZDk1NzUwMDAwMjk4NTg5YWVkOTA5ZGQ1N2VjOTI0ZDM=</find>
       <find>Service</find>
-      <find>main-border-button</find>
       <find>map</find>
+      <find>a-t-nails-spa-0</find>
+      <find>10</find>
+      <find>Florida 33764</find>
+      <find>florida</find>
+      <find>a &amp; t nails spa</find>
+      <find>Kid ser</find>
+      <find>main-border-button</find>
     </findStrings>
     <replaceStrings>
-      <replace>Florida</replace>
-      <replace>33764</replace>
-      <replace>A &amp; T Nails Spa</replace>
       <replace>florida</replace>
       <replace>a &amp; t nails spa florida</replace>
       <replace>https://www.lldtek.com/salon/appt/MzYyNDV8YW50bmFpbHMxNDF8RkxfMDcyOTF8ZDk1NzUwMDAwMjk4NTg5YWVkOTA5ZGQ1N2VjOTI0ZDM=</replace>
@@ -206,6 +205,10 @@
       <replace>gallery/boujee-nails-spa-gallery-0</replace>
       <replace>boujee-nails-spa-service-0</replace>
       <replace>https://www.lldtek.com/salon/appt/MzY5ODd8Ym91amVlMzAxc3xPSF8wNzMzMnw3N2VmNmU1NjBlMTg2ZDcyYWQxNWE0YTlhYjJlODE2OA==</replace>
+      <replace>boujee-nails-spa-about-0</replace>
+      <replace>OH 43935</replace>
+      <replace>ohio</replace>
+      <replace>boujee nails &amp; spa</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -321,12 +324,12 @@
       <workItem from="1651030172247" duration="16310000" />
       <workItem from="1651055173131" duration="2886000" />
       <workItem from="1651741767032" duration="9569000" />
-      <workItem from="1651808048026" duration="10891000" />
+      <workItem from="1651808048026" duration="15685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40274000" />
+    <option name="totallyTimeSpent" value="45068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -396,18 +399,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/templatemo-hexashop.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15164">
-          <caret line="1522" column="9" selection-start-line="1522" selection-start-column="9" selection-end-line="1522" selection-end-column="9" />
+        <state relative-caret-position="629">
+          <caret line="2460" column="17" selection-start-line="2460" selection-start-column="17" selection-end-line="2460" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="913" lean-forward="true" selection-start-line="913" selection-end-line="913" />
+        <state relative-caret-position="519">
+          <caret line="816" column="32" lean-forward="true" selection-start-line="816" selection-start-column="32" selection-end-line="816" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#52248#57983#0" />
+            <element signature="n#style#0;n#span#0;n#h4#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1651825009728" expanded="true" signature="46198:46344" ph="..." />
           </folding>
         </state>
       </provider>

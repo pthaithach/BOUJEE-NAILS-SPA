@@ -2456,6 +2456,11 @@ body{
         padding-top: 100px;
     }
 }
+@media (width: 1024px){
+  .stars{
+    display: none;
+  }
+}
 
 .booking-now-border{
   border: 2px solid #655637 !important;
