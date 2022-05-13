@@ -2477,18 +2477,67 @@ body{
   color: white !important;
 }
 
+/*css for SERVICE MENU*/
+.background-service{
+  background-image: url("../images/service/boujee-nails-spa-service-background.jpg");
+  min-height: 150px;
+}
+.title-service{
+  padding: 50px 0;
+  color: white;
 
-/*css for Style Map*/
-/* Always set the map height explicitly to define the size of the div
- * element that contains the map. */
-#map {
-  height: 100%;
+}
+.title-service{
+  font-size: 30px;
+  color: white;
+}
+.description p{
+  font-size: 14px;
+  color: #626262;
+  margin-top: 10px;
+  margin-bottom: 14px;
 }
 
-/* Optional: Makes the sample page fill the window. */
-html,
-body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
+.div-title{
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+ .title-big{
+   font-size: 30px;
+   color: #beaf90 ;
+   font-weight: 300;
+   padding: 16px 0 16px 16px;
+   letter-spacing: 4px;
+ }
+.title-small, .title-small-list{
+  font-size: 20px;
+  color: #9b7d48 ;
+}
+.title-small-list{
+  margin-bottom: 16px;
+}
+.text-price{
+  font-size: 16px;
+  font-weight: bold;
+  padding-left: 14px;
+}
+.border-right-img{
+  border-right: 1px solid rgba(255,255,255,0.1);
+}
+.line-dash{
+  border: 1px solid rgba(255,255,255,0.05);
+  height: 0.5px;
+  width: 100%;
+  margin: 40px 0;
+}
+.color-bold{
+  color: #a5792b;
+}
+#women .owl-item:hover h4{
+  color: #ffde97;
+}
+@media(min-width: 768px){
+  .title-big{
+    padding: 0 0 10px 15px;
+    font-size: 25px;
+  }
 }
